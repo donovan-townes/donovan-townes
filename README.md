@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Donovan Townes
 
-[![TownesDev Badge](https://img.shields.io/badge/TownesDev-Brand-blue?style=flat&logo=github)](https://github.com/TownesDev)
+<p align="center">
+  <a href="https://github.com/TownesDev">
+    <img src="https://img.shields.io/badge/TownesDev-Brand-1F4FFF?style=flat&labelColor=0B1020&logo=github&logoColor=FFFFFF" />
+  </a>
+</p>
 
 🎯 **Musician, Developer, and Systems Builder**
 
@@ -72,8 +76,8 @@ Navy: 0B1020 | Blue: 1F4FFF | Gold: F5C249 | White: FFFFFF
 
 ---
 
-### 🧭 Quote
-> “Systems that endure are built with intent.” — *Donovan Townes*
+> 🧭 *“Systems that endure are built with intent.”*  
+> — **Donovan Townes**
 
 <!-- Reliable visitor counter, themed -->
 
