@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Donovan Townes
+# 👋 Hello, I'm Donovan Townes.
 
 <p align="center">
   <a href="https://github.com/TownesDev">
@@ -55,7 +55,6 @@ Navy: 0B1020 | Blue: 1F4FFF | Gold: F5C249 | White: FFFFFF
 | [**TownesDev / quill**](https://github.com/TownesDev/quill) | TypeScript · Discord.js | Modernized Discord bot for the Remnant guild — slash-first architecture with a modular core. |
 | [**TextScape**](https://github.com/donovan-townes/TextScape) | Python · Django | Full-stack social media clone with secure authentication and RESTful back-end. |
 | [**Breeze Club Abby**](https://github.com/donovan-townes/Breeze-Club-Abby) | Python | Discord bot built for the Breeze Club community. |
-| [**La Brise Pâtisserie**](https://github.com/TownesDev/la-brise-patisserie) | Next.js · Tailwind | Elegant bakery website with responsive design and smooth UI components. |
 
 *(See more at [TownesDev](https://github.com/TownesDev))*  
 
@@ -75,9 +74,6 @@ Navy: 0B1020 | Blue: 1F4FFF | Gold: F5C249 | White: FFFFFF
 [![Donovan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donovan-townes&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
-
-> 🧭 *“Systems that endure are built with intent.”*  
-> — **Donovan Townes**
 
 <!-- Reliable visitor counter, themed -->
 
